@@ -14,7 +14,7 @@ on:
       - closed
       - reopened
     paths:
-      - /*
+      - /**
     branches:
       - main
 
