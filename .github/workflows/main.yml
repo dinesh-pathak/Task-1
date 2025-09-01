@@ -14,7 +14,7 @@ on:
       - closed
       - reopened
     paths:
-      - /**
+      - task1/**
     branches:
       - main
 
