@@ -49,5 +49,5 @@ jobs:
 
       - name: Print Content
         run: |
-          cat test.txt
+          cat task1/test.txt
         id: content
